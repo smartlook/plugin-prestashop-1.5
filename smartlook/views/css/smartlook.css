@@ -1,0 +1,59 @@
+/**
+ * Smartlook integration module.
+ * 
+ * @package   Smartlook
+ * @author    Smartlook <vladimir@smartsupp.com>
+ * @link      http://www.smartsupp.com
+ * @copyright 2015 Smartsupp.com
+ * @license   GPL-2.0+
+ *
+ * Plugin Name:       Smartlook
+ * Plugin URI:        http://www.getsmartlook.com
+ * Description:       Adds Smartlook code to PrestaShop.
+ * Version:           1.0.0
+ * Author:            Smartsupp
+ * Author URI:        http://www.smartsupp.com
+ * Text Domain:       smartlook
+ * License:           GPL-2.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ */
+
+#content .panel {
+	margin: 0 auto;
+	max-width: 1300px;
+}
+
+#advantages_list div > img {
+	margin: 1em;
+	width: 60px;
+}
+
+.bootstrap button[name='submitsmartlook'] {
+    background-color: #00aff0;
+    border-color: #008abd;
+    color: #fff;
+    opacity: 0.8;
+}
+
+.bootstrap button[name='submitsmartlook']:hover {
+    opacity: 1;
+}
+
+.bootstrap  button[name='submitsmartlook'] i {
+    color: #fff!important;
+}
+
+#smartlook_top span {
+    color: #008abd;
+    margin-right: 10px;
+}
+
+#smartlook_top .btn-default {
+    background-color: #008abd;
+    border-color: #008abd;
+    color: #fff;
+}
+
+#smartlook_top .col-lg-6.text-right {
+    margin-top: 8px;
+}
