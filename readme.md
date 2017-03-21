@@ -1,10 +1,10 @@
 # Smartlook plugin: PrestaShop
 
-Smartlook Website Visitor Recording Tool
+Smartlook plugin for PrestaShop
 
 ## Versions
 
-* 1.0.0
+* 1.0.0 (PrestaShop 1.6)
 
 ## Copyright
 
