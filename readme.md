@@ -1,6 +1,6 @@
 # Smartlook plugin: PrestaShop
 
-Smartlook plugin for PrestaShop
+Plugin for PrestaShop.
 
 ## Versions
 
@@ -8,4 +8,4 @@ Smartlook plugin for PrestaShop
 
 ## Copyright
 
-Copyright (c) 2017 [Smartsupp.com](https://www.smartsupp.com/)
+Copyright (c) 2017 [Smartlook.com](https://www.smartlook.com/)
