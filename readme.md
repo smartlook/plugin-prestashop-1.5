@@ -4,6 +4,7 @@ Plugin for PrestaShop.
 
 ## Versions
 
+* 1.0.0 (PrestaShop 1.5)
 * 1.0.0 (PrestaShop 1.6)
 
 ## Copyright
