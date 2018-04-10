@@ -1,6 +1,6 @@
 # Smartlook plugin - PrestaShop
 
-Read the release info and [download](https://github.com/smartlook/smartlook-plugin-prestashop/releases) plugin files.
+Download plugin files in .ZIP above.
 
 ## Copyright
 
