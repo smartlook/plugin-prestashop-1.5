@@ -1,4 +1,4 @@
-# Smartlook plugin - PrestaShop
+# Smartlook plugin - PrestaShop 1.5
 
 Compatibility: versions 1500 - 1563.
 
