@@ -1,6 +1,6 @@
 # Smartlook plugin - PrestaShop
 
-Download plugin files in .ZIP above.
+Compatibility: versions 1500 - 1563.
 
 ## Copyright
 
